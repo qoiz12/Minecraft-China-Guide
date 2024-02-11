@@ -1,1 +1,2 @@
-Tutorial is on Ghub Pages!
+The tutorial is on GitHub Pages!
+For Android and Windows only!
