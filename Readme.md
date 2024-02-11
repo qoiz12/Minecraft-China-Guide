@@ -19,8 +19,8 @@ Prerequisites:
 VPN (Hong Kong or China IP Required, Need a VPN? Check out the VPN-LIST.md)
 
 Step 1:
-Enable your VPN make sure the VPN is set to either China or Hong Kong.
-Rest Coming soon!
+Enable your VPN make sure the VPN is set to either China or Hong Kong.                 
+Rest of guide Coming soon!
 
 # Forums
 Visit the official Minecraft China forums https://mc.netease.com/ and login with your 163 or yeah.net account.
