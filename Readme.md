@@ -3,7 +3,7 @@
 Software Required:
 VPN (Hong Kong or China IP Required)
 
-Step 1: VPN
+Step 1:
 Enable your VPN make sure the VPN is set to either China or Hong Kong.
 Step 2: Get a 163 or yeah.net email account. Go to https://zc.reg.163.com/regInitialized?onlyNetease=1 for international sign up.  
 Step 3: Download Minecraft China. Go to https://mc.163.com/index.html and press the "立即下载端游" button.            
