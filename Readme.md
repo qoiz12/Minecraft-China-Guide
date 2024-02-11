@@ -1,7 +1,7 @@
 # Windows
 
 Software Required:
-VPN (Hong Kong or China IP Required)
+VPN (Hong Kong or China IP Required, Need a VPN? Check out the VPN-LIST.md)
 
 Step 1:
 Enable your VPN make sure the VPN is set to either China or Hong Kong.
