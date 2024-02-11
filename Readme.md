@@ -13,7 +13,7 @@ Step 5:After Launching the game you'll see this (translated screen): ![Login Scr
 Step 6: Agree to the terms and conditions.  
 Step 7 (notice): You'll need a Chinese resident ID Card due to local laws in China, I will not tell you in this tutorial how to get an ID from China.    
 If you see something like this:  ![End](https://gcdnb.pbrd.co/images/tyPLc8KqhkTQ.png?o=1)
-After doing this you've now got Minecraft China Edition!
-
+After doing this you've now got Minecraft China Edition!             
+Tip: Visit the offical Minecraft China forums https://mc.netease.com/ and login with your 163 or yeah.net account.
 # Android
 Coming soon.
