@@ -1,6 +1,6 @@
 # Windows
 
-Software Required:
+Prerequisites:
 VPN (Hong Kong or China IP Required, Need a VPN? Check out the VPN-LIST.md)
 
 Step 1:
@@ -15,7 +15,12 @@ Step 7 (notice): You'll need a Chinese resident ID Card due to local laws in Chi
 If you see something like this:  ![End](https://gcdnb.pbrd.co/images/tyPLc8KqhkTQ.png?o=1)
 After doing this you've now got Minecraft China Edition!             
 # Android
-Coming soon.
+Prerequisites:
+VPN (Hong Kong or China IP Required, Need a VPN? Check out the VPN-LIST.md)
+
+Step 1:
+Enable your VPN make sure the VPN is set to either China or Hong Kong.
+Rest Coming soon!
 
 # Forums
-Visit the offical Minecraft China forums https://mc.netease.com/ and login with your 163 or yeah.net account.
+Visit the official Minecraft China forums https://mc.netease.com/ and login with your 163 or yeah.net account.
