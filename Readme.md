@@ -28,7 +28,7 @@ Step 4: Login with netease account you made earlier (163.com or yeah.net).
 To come soon!
 
 # MC Studio
-Step 1: Download [This](https://ufile.io/2m33e687).
+Step 1: Download [This](https://ufile.io/2m33e687).                                                        
 Step 2: TBA
 
 # Forums
