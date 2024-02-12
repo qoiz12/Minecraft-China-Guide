@@ -28,7 +28,8 @@ Step 4: Login with netease account you made earlier (163.com or yeah.net).
 To come soon!
 
 # MC Studio
-To come soon!
+Step 1: Download [This](https://ufile.io/2m33e687).
+Step 2: TBA
 
 # Forums
 Visit the official Minecraft China forums https://mc.netease.com/ and login with your 163 or yeah.net account.
