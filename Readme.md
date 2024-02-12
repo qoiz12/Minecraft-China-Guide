@@ -25,7 +25,7 @@ Step 3: Download and Minecraft China. Go to https://mc.163.com/index.html and do
 Step 4: Login with netease account you made earlier (163.com or yeah.net).                            
 Notice: You may need to "fiddle" around with the Android verison to get it to work.
 
-# MC Studio [<kbd> <br> Download <br> </kbd>][https://link-not-here-yet.net]
+# MC Studio
 To come soon!
 
 # Forums
