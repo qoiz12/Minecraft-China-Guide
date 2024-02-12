@@ -26,7 +26,7 @@ Step 4: Login with netease account you made earlier (163.com or yeah.net).
 Notice: You may need to "fiddle" around with the Android verison to get it to work.
 
 # MC Studio
-To come soon!
+To come soon![<kbd> <br> Download <br> </kbd>][nothereyet.net]
 
 # Forums
 Visit the official Minecraft China forums https://mc.netease.com/ and login with your 163 or yeah.net account.
