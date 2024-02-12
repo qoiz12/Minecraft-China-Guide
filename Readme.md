@@ -4,7 +4,7 @@ Prerequisites:
 VPN (Hong Kong or China IP Required, Need a VPN? Check out the VPN-LIST.md)
 
 Step 1:
-Enable your VPN make sure the VPN is set to either China or Hong Kong.
+Enable your VPN and make sure the VPN is set to either China or Hong Kong.
 Step 2: Get a 163 or yeah.net email account. Go to https://zc.reg.163.com/regInitialized?onlyNetease=1 for international sign-up.  
 Step 3: Download Minecraft China. Go to https://mc.163.com/index.html and press the "立即下载端游" button.            
 Step 4: Go through the installation.         
@@ -20,8 +20,8 @@ VPN (MUST be a mainland China IP, I recommend using [this](https://play.google.c
 
 Step 1:Enable your VPN.           
 Step 2: Get a 163 or yeah.net email account. Go to https://zc.reg.163.com/regInitialized?onlyNetease=1 for international sign-up.  
-Step 3: Download and Minecraft China. Go to https://mc.163.com/index.html and download [This](https://adl.netease.com/d/g/mc/c/gwnew?type=android) apk file.     
-Step 4: Login with netease account you made earlier (163.com or yeah.net).                            
+Step 3: Download and install Minecraft China. Go to https://mc.163.com/index.html and download [This](https://adl.netease.com/d/g/mc/c/gwnew?type=android) apk file.     
+Step 4: Login with the NetEase account you made earlier (163.com or yeah.net).                            
 
 # IOS
 To come soon!
