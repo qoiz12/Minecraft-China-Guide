@@ -16,14 +16,16 @@ If you see something like this:  ![End](https://gcdnb.pbrd.co/images/tyPLc8KqhkT
 After doing this you've now got Minecraft China Edition!             
 # Android
 Prerequisites:
-VPN (Hong Kong or China IP Required, Need a VPN? Check out the VPN-LIST.md)
+VPN (MUST be a mainland China IP, I recommend using [this]([url](https://play.google.com/store/apps/details?id=com.cnqlx.booster))).
 
 Step 1:
 Enable your VPN make sure the VPN is set to either China or Hong Kong.                 
 Step 2: Get a 163 or yeah.net email account. Go to https://zc.reg.163.com/regInitialized?onlyNetease=1 for international sign-up.  
 Step 3: Download and Minecraft China. Go to https://mc.163.com/index.html and download [This](https://adl.netease.com/d/g/mc/c/gwnew?type=android) apk file.     
 Step 4: Login with netease account you made earlier (163.com or yeah.net).                            
-Notice: You may need to "fiddle" around with the Android verison to get it to work.
+
+# IOS
+To come soon!
 
 # MC Studio
 To come soon!
