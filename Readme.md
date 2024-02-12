@@ -16,7 +16,7 @@ If you see something like this:  ![End](https://gcdnb.pbrd.co/images/tyPLc8KqhkT
 you've now got Minecraft China Edition!             
 # Android
 Prerequisites:
-VPN (MUST be a mainland China IP, I recommend using [this]([url](https://play.google.com/store/apps/details?id=com.cnqlx.booster)).
+VPN (MUST be a mainland China IP, I recommend using [this](https://play.google.com/store/apps/details?id=com.cnqlx.booster) ).
 
 Step 1:
 Enable your VPN make sure the VPN is set to either China or Hong Kong.                 
