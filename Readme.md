@@ -16,7 +16,7 @@ If you see something like this:  ![End](https://gcdnb.pbrd.co/images/tyPLc8KqhkT
 you've now got Minecraft China Edition!             
 # Android
 Prerequisites:
-VPN (MUST be a mainland China IP, I recommend using [this](https://play.google.com/store/apps/details?id=com.cnqlx.booster)).
+VPN (MUST be a mainland China IP, I recommend using [this](https://play.google.com/store/apps/details?id=com.cnqlx.booster) or openvpn and vpngate).
 
 Step 1:Enable your VPN.           
 Step 2: Get a 163 or yeah.net email account. Go to https://zc.reg.163.com/regInitialized?onlyNetease=1 for international sign-up.  
