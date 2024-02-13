@@ -1,5 +1,6 @@
 # VPNs with HK and CN servers
-Windscribe (This is the one I use)       
+Windscribe (This is the one I use)   
+OpenVPN and vpngate        
 ExpressVPN         
 Surfshark            
 NordVPN           
