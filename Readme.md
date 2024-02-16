@@ -7,7 +7,12 @@ Step 1:
 Enable your VPN and make sure the VPN is set to either China or Hong Kong.
 Step 2: Get a 163 or yeah.net email account. Go to https://zc.reg.163.com/regInitialized?onlyNetease=1 for international sign-up.  
 Step 3: Download Minecraft China. Go to https://mc.163.com/index.html and press the "立即下载端游" button.            
-Step 4: Go through the installation.         
+Step 4: Go through the installation.
+         
+Installation Steps:   
+Step 1: Tick the box in the corner (after opening exe) then press the green button.                           
+You're done.                    
+
 Step 5:After Launching the game you'll see this (translated screen): ![Login Screen](https://gcdnb.pbrd.co/images/2wacfE732nX6.png?o=1)                                                                                                                      
     In the top box insert the email from your 163 or yeah.net account and the password for the 163 or yeah.net account.  
 Step 6: Agree to the terms and conditions.  
