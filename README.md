@@ -1,4 +1,4 @@
-# Minecraft China Edition Install Guide (in English)
+# Minecraft China Edition Install Guide/Tutorial (in English)
 I have only tested Windows and Android. I haven't been able to get it to work on IOS.
 
 ## Windows
