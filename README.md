@@ -1,5 +1,7 @@
+# Minecraft China Edition Install Guide (in English)
+I have only tested Windows and Android. I haven't been able to get it to work on IOS.
 
-# Windows
+## Windows
 
   
 
@@ -42,7 +44,7 @@ you've now got Minecraft China Edition!
   
   
 
-# Android
+## Android
 
 Prerequisites:
 
@@ -60,12 +62,12 @@ Step 4: Log in with the NetEase account you made earlier (163.com or yeah.net).
 
   
 
-# IOS
+## IOS
 
 To come soon!
 
   
 
-# Forums
+## Forum
 
 Visit the official Minecraft China forums https://mc.netease.com/ and log in with your 163 or yeah.net account.
