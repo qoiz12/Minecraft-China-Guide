@@ -50,7 +50,7 @@ VPN (MUST be a mainland China IP, I recommend using [this](https://play.google.c
 
   
 
-Step 1:Enable your VPN.
+Step 1: Enable your VPN.
 
 Step 2: Get a 163 or yeah.net email account. Go to https://zc.reg.163.com/regInitialized?onlyNetease=1 for international sign-up.
 
