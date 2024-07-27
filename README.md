@@ -7,7 +7,7 @@ I have only gotten this to work on Windows and Android. I haven't been able to g
 
 Prerequisites:
 
-VPN (Hong Kong or China IP Required, Need a VPN? Check out the VPN-LIST.md)
+VPN (Hong Kong or Mainland China IP Required, Need a VPN? Check out the VPN-LIST.md)
 
 ------------------------------------------------------------------------------------
 
