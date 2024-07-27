@@ -56,7 +56,7 @@ Step 1: Enable your VPN.
 
 Step 2: Get a 163 or yeah.net email account. Go to https://zc.reg.163.com/regInitialized?onlyNetease=1 for international sign-up.
 
-Step 3: Download and install Minecraft China. Go to https://mc.163.com/index.html and download [This](https://adl.netease.com/d/g/mc/c/gwnew?type=android) apk file.
+Step 3: Download and install Minecraft China. Go to https://mc.163.com/index.html and press on the Android Button [or click here](https://adl.netease.com/d/g/mc/c/gwnew?type=android) to get the apk file.
 
 Step 4: Log in with the NetEase account you made earlier (163.com or yeah.net).
 
