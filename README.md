@@ -62,12 +62,6 @@ Step 4: Log in with the NetEase account you made earlier (163.com or yeah.net).
 
   
 
-## IOS
-
-To come soon!
-
-  
-
 ## Forum
 
 Visit the official Minecraft China forums https://mc.netease.com/ and log in with your 163 or yeah.net account.
