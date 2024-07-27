@@ -9,4 +9,4 @@ Astrill VPN
 PureVPN             
 HotSpot Shield               
 Ivacy VPN         
-[Returnees (free)](https://haigui.in/)
+[Returnees](https://haigui.in/) (free)
