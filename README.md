@@ -46,7 +46,7 @@ you've now got Minecraft China Edition!
 
 Prerequisites:
 
-VPN (MUST be a mainland China IP, I recommend using [this](https://play.google.com/store/apps/details?id=com.cnqlx.booster) or openvpn and vpngate).
+VPN (MUST be a mainland China IP, I recommend using [this](https://haigui.in/) or openvpn and vpngate).
 
   
 
