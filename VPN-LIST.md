@@ -4,7 +4,8 @@ OpenVPN and VPNGATE
 ExpressVPN         
 Surfshark           
 NordVPN          
-Private Internet Access          
+Private Internet Access        
+[UU Accelerator](https://uu.163.com/) (it's a NetEase product by the way).  
 Astrill VPN            
 PureVPN             
 HotSpot Shield               
