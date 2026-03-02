@@ -1,6 +1,6 @@
 # Minecraft China Edition Install Guide/Tutorial (in English)
 
-*** 20/06/25: PLEASE CREDIT ME IF YOU USE THIS GUIDE IN OR FOR A VIDEO OR SIMILAR FORM OF MEDIA. ***
+*** 02/03/26: NetEase are seemingly restricting international registration, with them requiring a Chinese mainland (+86) phone number to be used when creating an account now. ***
 
 I have only gotten this to work on Windows and Android. I haven't been able to get it to work on IOS.
 I am not responsible for anything that happens to you or devices from following this guide.
@@ -66,3 +66,6 @@ Step 4: Log in with the NetEase account you made earlier (163.com or yeah.net).
 ## Forum
 
 Visit the official Minecraft China forums https://mc.netease.com/ and log in with your 163 or yeah.net account.
+
+## Note
+PLEASE CREDIT ME IF YOU USE THIS GUIDE IN OR FOR A VIDEO OR SIMILAR FORM OF MEDIA.
